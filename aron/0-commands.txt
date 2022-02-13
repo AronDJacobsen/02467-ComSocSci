@@ -1,0 +1,2 @@
+conda activate comsocsci2022
+
