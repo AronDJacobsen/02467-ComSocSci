@@ -6,7 +6,7 @@ Contains datafiles related to reddit posts about Gamestop/GME posted in the peri
 > 1. `reddit_submissions` hold data related to the submissions posts.
 > 2. `reddit_comments` hold data related to the comments related to posts retrieved in the mentioned period.
 
-Reddit data of submissions and comments can be downloaded at:
+They are provided as `bz2`-zipped files and can otherwise be downloaded at:
 > - https://drive.google.com/drive/folders/1KzM2XruGFsJpxhuhKqL8An_6HPvXT1pq?usp=sharing 
 
 ## GME stock data
