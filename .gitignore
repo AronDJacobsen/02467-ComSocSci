@@ -1,6 +1,3 @@
-# Reddit data - too big
-data/reddit/*
-
 # Jupyter Notebook
 .ipynb_checkpoints
 
