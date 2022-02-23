@@ -1,2 +1,7 @@
+installing packages:
+
 conda activate comsocsci2022
+or 
+conda install package -n comsocsci2022
+
 
